@@ -1,0 +1,64 @@
+/********************************
+General Styling
+********************************/
+
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+/********************************
+Header Styling
+********************************/
+
+header {
+  width: 960px;
+  display: block;
+  margin: 0 auto;
+}
+
+.delicious {
+  font-family: 'Pacifico', cursive;
+  display: inline;
+}
+
+.chocolatePizza {
+  font-family: 'Francois One', sans-serif;
+}
+
+nav {
+  float: right;
+}
+
+.nav {
+  display: inline;
+}
+
+h4 {
+  font-family: 'Francois One', sans-serif;
+  font-size: 12px;
+}
+/********************************
+Body Styling
+********************************/
+
+main {
+  clear: both;
+}
+
+/********************************
+List Styling
+********************************/
+
+
+/********************************
+Footer Styling
+********************************/
+
+section {
+  clear: both;
+}
+
+footer {
+  clear: both;
+}
