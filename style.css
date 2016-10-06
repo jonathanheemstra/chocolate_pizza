@@ -15,15 +15,23 @@ header {
   width: 960px;
   display: block;
   margin: 0 auto;
+  padding: 20px 0px 10px 0px;
+  height: 75px;
+  border-bottom: 10px solid lightgrey;
 }
 
 .delicious {
   font-family: 'Pacifico', cursive;
   display: inline;
+  font-size: 18px;
 }
 
-.chocolatePizza {
-  font-family: 'Francois One', sans-serif;
+hgroup {
+  float: left;
+  padding-left: 15px;
+}
+.logo {
+  float: left;
 }
 
 nav {
@@ -36,16 +44,43 @@ nav {
 
 h4 {
   font-family: 'Francois One', sans-serif;
-  font-size: 12px;
+  font-size: 10px;
+  margin: 0;
 }
 /********************************
 Body Styling
 ********************************/
 
 main {
-  clear: both;
+  /*clear: both;*/
 }
 
+.chocolatePizza {
+  font-family: 'Francois One', sans-serif;
+  font-size: 30px;
+  margin: 20px 0 0 0;
+}
+
+.datePosted {
+  font-family: 'Francois One', sans-serif;
+  font-size: 10px;
+  color: #a6aeb1;
+  list-style: none;
+  padding: 0;
+  margin-top: 0;
+}
+
+.print {
+  float: right;
+}
+
+.heroImg {
+  width: 960px;
+}
+
+.content {
+  margin: 20px 0;
+}
 /********************************
 List Styling
 ********************************/
