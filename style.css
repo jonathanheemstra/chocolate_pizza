@@ -85,6 +85,32 @@ main {
 List Styling
 ********************************/
 
+form {
+  background-image: url("img/list-bg.png");
+  height: 150px;
+  padding: 77px 0;
+}
+.ulLeft {
+float: left;
+display: inline;
+margin: 0;
+padding-left: 10%;
+}
+
+.ulRight {
+  float: right;
+  display: inline;
+  margin: 0;
+  padding-right: 10%;
+}
+
+.ingredients {
+  list-style: none;
+  width: 325px;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 18px;
+}
+
 /********************************
 Author Bio
 ********************************/
